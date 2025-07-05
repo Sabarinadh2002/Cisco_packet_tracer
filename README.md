@@ -23,7 +23,7 @@ LC Solicitors required a robust network infrastructure to:
 
 ## 🌐 Network Architecture
 
-![Network Topology](Screenshot 2025-07-05 122423.jpg)
+![Network Topology](l-m.jpg)
 *Figure 1: LC Solicitors Network Topology showing London and Manchester offices*
 
 ### Office Layout
